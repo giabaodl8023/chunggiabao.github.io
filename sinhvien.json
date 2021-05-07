@@ -1,0 +1,54 @@
+[
+    {
+        "ten":"Viet",
+        "tuoi":"22",
+        "toan":"7",
+        "anhvan":"7",
+        "van":"4",
+        "diemTB":null,
+        "totnghiep":null,
+        "lienlac": {
+            "email":"1710302@dlu.edu.vn",
+            "phone":"0123456789"
+        }
+    },
+    {
+        "ten":"Hoang",
+        "tuoi":"22",
+        "toan":"6",
+        "anhvan":"7",
+        "van":"8",
+        "diemTB":null,
+        "totnghiep":null,
+        "lienlac": {
+            "email":"1714181@dlu.edu.vn",
+            "phone":"0123456789"
+        }
+    },
+    {
+        "ten":"Bao",
+        "tuoi":"22",
+        "toan":"6",
+        "anhvan":null,
+        "van":"8",
+        "diemTB":null,
+        "totnghiep":null,
+        "lienlac": {
+            "email":"1710131@dlu.edu.vn",
+            "phone":"0123456789"
+        }
+    },
+    {
+        "ten":"Thanh",
+        "tuoi":"22",
+        "toan":"5",
+        "anhvan":"9",
+        "van":"4",
+        "diemTB":null,
+        "totnghiep":null,
+        "lienlac": {
+            "email":"1710266@dlu.edu.vn",
+            "phone":"0123456789"
+        }
+    }
+]
